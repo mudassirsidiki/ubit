@@ -1,0 +1,8 @@
+{
+  "/services/portfolio-generation/page": "app/services/portfolio-generation/page.js",
+  "/services/portfolio-generation/templates/page": "app/services/portfolio-generation/templates/page.js",
+  "/services/portfolio-generation/generate/page": "app/services/portfolio-generation/generate/page.js",
+  "/services/buy-sell/page": "app/services/buy-sell/page.js",
+  "/services/alumni-network/page": "app/services/alumni-network/page.js",
+  "/services/buy-sell/post/page": "app/services/buy-sell/post/page.js"
+}
